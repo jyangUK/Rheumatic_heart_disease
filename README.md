@@ -5,7 +5,7 @@ Scripts to accompany the paper [**"Data independent acquisition mass spectrometr
  
  ![ScreenShot](Data/Fig1.png)
 
-- [**get_foldchange.ipynb**](https://github.com/jyangUK/Rheumatic_heart_disease/blob/master/get_foldchange.ipynb): calculate log2 fold-change of protein expression between cases and controls, generate corresponding p-values by t-test .
+- [**Get_foldchange.ipynb**](https://github.com/jyangUK/Rheumatic_heart_disease/blob/master/Get_foldchange.ipynb): calculate log2 fold-change of protein expression between cases and controls, generate corresponding p-values by t-test .
 - [**Generate_Boruta_results.ipynb**](https://github.com/jyangUK/Rheumatic_heart_disease/blob/master/Generate_Boruta_results.ipynb): Use Boruta algorithm(https://www.jstatsoft.org/article/view/v036i11) to find out biomarkers for RHD.
 - [**Calculate_AUC.ipynb**](https://github.com/jyangUK/Rheumatic_heart_disease/blob/master/Calculate_AUC.ipynb): Calculate Area Under Curve (AUC) for single and accummulated proteins as shown in Table 2 and Fig1b in the paper.
 - [**LASSO_vs_boruta.ipynb**](https://github.com/jyangUK/Rheumatic_heart_disease/blob/master/LASSO_vs_boruta.ipynb): Compare the prediction performance of LASSO claffication and Boruta algorithm.
